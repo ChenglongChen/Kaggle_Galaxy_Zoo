@@ -12,6 +12,10 @@ neural network are trained with back-propagation with MSE as cost function.
 My score on the private leaderboard is RMSE = 0.10494, ranking 60th out of 331. [With an average of few different NN's, I obtain 0.10379, which is my best private score]. With a few epoch [e.g., 5~10] through the whole training set, one can easily obtain RMSE = 0.11xxx. With a few more, you can get to 0.10xxx, which seems
 the limit of my approach and hard to break! I would appreciate if anyone tell me how to break it, anything regarding to the network architecture or parameter configurations etc.
 
+Update: The winning solution for this competition is here
+http://benanne.github.io/2014/04/05/galaxy-zoo.html
+Convnet is again the winner for such task!!
+
 The code itself contains lots of comments. So, you'd better see there for details.
 
 ## Requirements
